@@ -22,7 +22,7 @@
     "jest:watch": "jest --watch"
   },
   "dependencies": {
-    "autoprefixer": "^10.2.4",
+    "autoprefixer": "^10.2.5",
     "babel-preset-gatsby": "^1.0.0",
     "clean-css": "^5.1.1",
     "postcss": "^8.0.5"
